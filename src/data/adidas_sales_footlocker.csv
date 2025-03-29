@@ -4,6 +4,7 @@ Foot Locker,2020-01-01,Northeast,Pennsylvania,Philadelphia,Women's Apparel,53.0,
 Foot Locker,2020-01-01,Northeast,New York,New York,Men's Street Footwear,34.0,384,13056.0
 Foot Locker,2020-01-01,Northeast,Pennsylvania,Philadelphia,Women's Apparel,68.0,83,5644.0
 Foot Locker,2020-01-01,Northeast,New York,New York,Men's Street Footwear,47.0,336,15792.0
+Foot Locker,2020-01-01,Northeast,New York,New York,Men's Street Footwear,50.0,1200,60000.0
 Foot Locker,2020-01-02,Northeast,New York,New York,Men's Athletic Footwear,50.0,1000,50000.0
 Foot Locker,2020-01-02,Northeast,New York,New York,Men's Athletic Footwear,36.0,320,11520.0
 Foot Locker,2020-01-02,Northeast,New York,New York,Men's Athletic Footwear,47.0,260,12220.0
@@ -19,6 +20,7 @@ Foot Locker,2020-01-05,Northeast,New York,New York,Men's Apparel,60.0,900,54000.
 Foot Locker,2020-01-06,Northeast,New York,New York,Women's Apparel,50.0,1000,50000.0
 Foot Locker,2020-01-06,Northeast,New York,New York,Women's Apparel,46.0,260,11960.0
 Foot Locker,2020-01-06,Northeast,New York,New York,Women's Apparel,38.0,330,12540.0
+Foot Locker,2020-01-07,Northeast,New York,New York,Men's Street Footwear,50.0,1250,62500.0
 Foot Locker,2020-01-07,Northeast,New York,New York,Men's Street Footwear,33.0,388,12804.0
 Foot Locker,2020-01-07,Northeast,New York,New York,Men's Street Footwear,46.0,313,14398.0
 Foot Locker,2020-01-08,Northeast,New York,New York,Men's Athletic Footwear,50.0,900,45000.0
@@ -36,6 +38,7 @@ Foot Locker,2020-01-23,Northeast,New York,New York,Men's Apparel,43.0,306,13158.
 Foot Locker,2020-01-24,Northeast,New York,New York,Women's Apparel,50.0,1000,50000.0
 Foot Locker,2020-01-24,Northeast,New York,New York,Women's Apparel,48.0,290,13920.0
 Foot Locker,2020-01-24,Northeast,New York,New York,Women's Apparel,36.0,350,12600.0
+Foot Locker,2020-01-25,Northeast,New York,New York,Men's Street Footwear,50.0,1220,61000.0
 Foot Locker,2020-01-25,Northeast,New York,New York,Men's Street Footwear,46.0,354,16284.0
 Foot Locker,2020-01-25,Northeast,New York,New York,Men's Street Footwear,40.0,390,15600.0
 Foot Locker,2020-01-26,Northeast,New York,New York,Men's Athletic Footwear,35.0,315,11025.0
@@ -54,6 +57,7 @@ Foot Locker,2020-01-30,Northeast,New York,New York,Women's Apparel,45.0,238,1071
 Foot Locker,2020-01-30,Northeast,New York,New York,Women's Apparel,36.0,323,11628.0
 Foot Locker,2020-01-30,Northeast,New York,New York,Women's Apparel,50.0,950,47500.0
 Foot Locker,2020-01-31,Northeast,New York,New York,Men's Street Footwear,45.0,300,13500.0
+Foot Locker,2020-01-31,Northeast,New York,New York,Men's Street Footwear,50.0,1200,60000.0
 Foot Locker,2020-01-31,Northeast,New York,New York,Men's Street Footwear,33.0,372,12276.0
 Foot Locker,2020-02-01,Northeast,New York,New York,Men's Athletic Footwear,47.0,234,10998.0
 Foot Locker,2020-02-01,Northeast,New York,New York,Men's Athletic Footwear,50.0,900,45000.0
@@ -70,6 +74,7 @@ Foot Locker,2020-02-04,Northeast,New York,New York,Men's Apparel,56.0,215,12040.
 Foot Locker,2020-02-05,Northeast,New York,New York,Women's Apparel,49.0,238,11662.0
 Foot Locker,2020-02-05,Northeast,New York,New York,Women's Apparel,50.0,950,47500.0
 Foot Locker,2020-02-05,Northeast,New York,New York,Women's Apparel,39.0,333,12987.0
+Foot Locker,2020-02-06,Northeast,New York,New York,Men's Street Footwear,60.0,1220,73200.0
 Foot Locker,2020-02-06,Northeast,New York,New York,Men's Street Footwear,54.0,317,17118.0
 Foot Locker,2020-02-06,Northeast,New York,New York,Men's Street Footwear,44.0,366,16104.0
 Foot Locker,2020-02-07,Northeast,New York,New York,Men's Athletic Footwear,55.0,925,50875.0
@@ -84,10 +89,12 @@ Foot Locker,2020-02-09,Northeast,New York,New York,Women's Athletic Footwear,50.
 Foot Locker,2020-02-10,Northeast,New York,New York,Men's Apparel,59.0,245,14455.0
 Foot Locker,2020-02-10,Northeast,New York,New York,Men's Apparel,60.0,875,52500.0
 Foot Locker,2020-02-10,Northeast,New York,New York,Men's Apparel,47.0,280,13160.0
+Foot Locker,2020-03-03,Northeast,New York,New York,Women's Apparel,65.0,1000,65000.0
 Foot Locker,2020-03-03,Northeast,New York,New York,Women's Apparel,59.0,290,17110.0
 Foot Locker,2020-03-03,Northeast,New York,New York,Women's Apparel,44.0,320,14080.0
 Foot Locker,2020-03-04,Northeast,New York,New York,Men's Street Footwear,47.0,400,18800.0
 Foot Locker,2020-03-04,Northeast,New York,New York,Men's Street Footwear,55.0,313,17215.0
+Foot Locker,2020-03-04,Northeast,New York,New York,Men's Street Footwear,60.0,1250,75000.0
 Foot Locker,2020-03-05,Northeast,New York,New York,Men's Athletic Footwear,54.0,270,14580.0
 Foot Locker,2020-03-05,Northeast,New York,New York,Men's Athletic Footwear,41.0,340,13940.0
 Foot Locker,2020-03-05,Northeast,New York,New York,Men's Athletic Footwear,55.0,1000,55000.0
@@ -100,8 +107,10 @@ Foot Locker,2020-03-07,Northeast,New York,New York,Women's Athletic Footwear,38.
 Foot Locker,2020-03-08,Northeast,New York,New York,Men's Apparel,55.0,252,13860.0
 Foot Locker,2020-03-08,Northeast,New York,New York,Men's Apparel,60.0,900,54000.0
 Foot Locker,2020-03-08,Northeast,New York,New York,Men's Apparel,45.0,288,12960.0
+Foot Locker,2020-03-09,Northeast,New York,New York,Women's Apparel,65.0,1050,68250.0
 Foot Locker,2020-03-09,Northeast,New York,New York,Women's Apparel,64.0,305,19520.0
 Foot Locker,2020-03-09,Northeast,New York,New York,Women's Apparel,46.0,347,15962.0
+Foot Locker,2020-03-10,Northeast,New York,New York,Men's Street Footwear,60.0,1275,76500.0
 Foot Locker,2020-03-10,Northeast,New York,New York,Men's Street Footwear,44.0,434,19096.0
 Foot Locker,2020-03-10,Northeast,New York,New York,Men's Street Footwear,59.0,319,18821.0
 Foot Locker,2020-03-11,Northeast,New York,New York,Men's Athletic Footwear,55.0,1025,56375.0
@@ -116,10 +125,12 @@ Foot Locker,2020-03-13,Northeast,New York,New York,Women's Athletic Footwear,46.
 Foot Locker,2020-03-14,Northeast,New York,New York,Men's Apparel,60.0,925,55500.0
 Foot Locker,2020-03-14,Northeast,New York,New York,Men's Apparel,46.0,278,12788.0
 Foot Locker,2020-03-14,Northeast,New York,New York,Men's Apparel,58.0,231,13398.0
+Foot Locker,2020-03-15,Northeast,New York,New York,Women's Apparel,65.0,1100,71500.0
 Foot Locker,2020-03-15,Northeast,New York,New York,Women's Apparel,47.0,352,16544.0
 Foot Locker,2020-03-15,Northeast,New York,New York,Women's Apparel,61.0,286,17446.0
 Foot Locker,2020-03-16,Northeast,New York,New York,Men's Street Footwear,58.0,325,18850.0
 Foot Locker,2020-03-16,Northeast,New York,New York,Men's Street Footwear,41.0,375,15375.0
+Foot Locker,2020-03-16,Northeast,New York,New York,Men's Street Footwear,60.0,1250,75000.0
 Foot Locker,2020-03-17,Northeast,New York,New York,Men's Athletic Footwear,55.0,1025,56375.0
 Foot Locker,2020-03-17,Northeast,New York,New York,Men's Athletic Footwear,37.0,359,13283.0
 Foot Locker,2020-03-17,Northeast,New York,New York,Men's Athletic Footwear,53.0,308,16324.0
@@ -135,6 +146,7 @@ Foot Locker,2020-04-24,Southeast,Florida,Miami,Men's Athletic Footwear,45.0,725,
 Foot Locker,2020-04-24,Southeast,Florida,Miami,Men's Athletic Footwear,41.0,210,8610.0
 Foot Locker,2020-05-24,Southeast,Florida,Miami,Women's Apparel,64.0,219,14016.0
 Foot Locker,2020-05-24,Southeast,Florida,Miami,Men's Apparel,65.0,775,50375.0
+Foot Locker,2020-05-24,Southeast,Florida,Miami,Women's Apparel,70.0,875,61250.0
 Foot Locker,2020-05-24,Southeast,Florida,Miami,Men's Apparel,60.0,202,12120.0
 Foot Locker,2020-08-06,West,Washington,Seattle,Men's Street Footwear,45.0,1050,47250.0
 Foot Locker,2020-08-06,West,Washington,Seattle,Men's Street Footwear,44.0,273,12012.0
@@ -1191,6 +1203,7 @@ Foot Locker,2021-06-07,Midwest,Nebraska,Omaha,Women's Apparel,40.0,150,6000.0
 Foot Locker,2021-06-07,Southeast,South Carolina,Charleston,Women's Street Footwear,50.0,775,38750.0
 Foot Locker,2021-06-07,Midwest,Illinois,Chicago,Men's Athletic Footwear,45.0,175,7875.0
 Foot Locker,2021-06-07,Southeast,South Carolina,Charleston,Women's Athletic Footwear,47.0,218,10246.0
+Foot Locker,2021-06-07,Southeast,South Carolina,Charleston,Women's Apparel,70.0,925,64750.0
 Foot Locker,2021-06-07,Midwest,Nebraska,Omaha,Women's Apparel,37.0,38,1406.0
 Foot Locker,2021-06-07,Southeast,South Carolina,Charleston,Women's Athletic Footwear,50.0,750,37500.0
 Foot Locker,2021-06-07,Midwest,Illinois,Chicago,Men's Athletic Footwear,43.0,51,2193.0
@@ -1229,6 +1242,7 @@ Foot Locker,2021-06-09,Midwest,Nebraska,Omaha,Men's Athletic Footwear,35.0,75,26
 Foot Locker,2021-06-09,Midwest,Nebraska,Omaha,Men's Athletic Footwear,32.0,23,736.0
 Foot Locker,2021-06-10,West,Hawaii,Honolulu,Women's Apparel,97.0,169,16393.0
 Foot Locker,2021-06-10,West,Hawaii,Honolulu,Men's Street Footwear,67.0,210,14070.0
+Foot Locker,2021-06-10,West,Hawaii,Honolulu,Women's Apparel,100.0,650,65000.0
 Foot Locker,2021-06-10,Midwest,Illinois,Chicago,Men's Apparel,50.0,44,2200.0
 Foot Locker,2021-06-10,Midwest,Illinois,Chicago,Men's Apparel,55.0,175,9625.0
 Foot Locker,2021-06-10,West,Hawaii,Honolulu,Men's Apparel,83.0,88,7304.0
@@ -1386,6 +1400,7 @@ Foot Locker,2021-06-24,Southeast,Virginia,Richmond,Women's Street Footwear,73.0,
 Foot Locker,2021-06-24,Midwest,Illinois,Chicago,Men's Street Footwear,60.0,495,29700.0
 Foot Locker,2021-06-24,Southeast,Virginia,Richmond,Women's Apparel,82.0,231,18942.0
 Foot Locker,2021-06-24,Southeast,Virginia,Richmond,Men's Athletic Footwear,45.0,221,9945.0
+Foot Locker,2021-06-24,Southeast,Virginia,Richmond,Women's Apparel,105.0,700,73500.0
 Foot Locker,2021-06-24,Southeast,Virginia,Richmond,Women's Athletic Footwear,72.0,142,10224.0
 Foot Locker,2021-06-24,Southeast,Virginia,Richmond,Women's Street Footwear,80.0,650,52000.0
 Foot Locker,2021-06-24,Southeast,Virginia,Richmond,Men's Athletic Footwear,65.0,650,42250.0
@@ -1431,6 +1446,7 @@ Foot Locker,2021-07-04,Midwest,Illinois,Chicago,Men's Apparel,46.0,51,2346.0
 Foot Locker,2021-07-04,Midwest,Illinois,Chicago,Men's Apparel,50.0,175,8750.0
 Foot Locker,2021-07-04,Midwest,Nebraska,Omaha,Women's Street Footwear,36.0,52,1872.0
 Foot Locker,2021-07-04,Midwest,Nebraska,Omaha,Women's Street Footwear,40.0,200,8000.0
+Foot Locker,2021-07-05,Southeast,South Carolina,Charleston,Women's Apparel,70.0,975,68250.0
 Foot Locker,2021-07-05,Southeast,South Carolina,Charleston,Women's Athletic Footwear,55.0,775,42625.0
 Foot Locker,2021-07-05,Midwest,Nebraska,Omaha,Women's Athletic Footwear,30.0,125,3750.0
 Foot Locker,2021-07-05,Midwest,Illinois,Chicago,Women's Apparel,51.0,105,5355.0
@@ -1439,6 +1455,7 @@ Foot Locker,2021-07-05,Midwest,Iowa,Des Moines,Men's Apparel,46.0,60,2760.0
 Foot Locker,2021-07-05,Midwest,Iowa,Des Moines,Women's Apparel,55.0,375,20625.0
 Foot Locker,2021-07-05,Midwest,Iowa,Des Moines,Men's Apparel,50.0,200,10000.0
 Foot Locker,2021-07-05,Midwest,Iowa,Des Moines,Men's Street Footwear,49.0,138,6762.0
+Foot Locker,2021-07-05,Southeast,South Carolina,Charleston,Men's Street Footwear,65.0,1150,74750.0
 Foot Locker,2021-07-05,Southeast,South Carolina,Charleston,Men's Apparel,65.0,800,52000.0
 Foot Locker,2021-07-05,Midwest,Illinois,Chicago,Women's Apparel,55.0,350,19250.0
 Foot Locker,2021-07-05,Midwest,Iowa,Des Moines,Women's Street Footwear,40.0,225,9000.0
@@ -1491,6 +1508,7 @@ Foot Locker,2021-07-08,Midwest,Illinois,Chicago,Women's Street Footwear,40.0,250
 Foot Locker,2021-07-08,Midwest,Nebraska,Omaha,Men's Street Footwear,40.0,400,16000.0
 Foot Locker,2021-07-08,Midwest,Illinois,Chicago,Women's Street Footwear,36.0,65,2340.0
 Foot Locker,2021-07-09,West,Hawaii,Honolulu,Women's Athletic Footwear,73.0,130,9490.0
+Foot Locker,2021-07-09,West,Hawaii,Honolulu,Men's Street Footwear,80.0,800,64000.0
 Foot Locker,2021-07-09,West,Hawaii,Honolulu,Women's Athletic Footwear,80.0,500,40000.0
 Foot Locker,2021-07-09,Midwest,Nebraska,Omaha,Men's Athletic Footwear,35.0,200,7000.0
 Foot Locker,2021-07-09,West,Hawaii,Honolulu,Men's Athletic Footwear,85.0,650,55250.0
@@ -1623,10 +1641,13 @@ Foot Locker,2021-07-23,Southeast,Virginia,Richmond,Women's Street Footwear,62.0,
 Foot Locker,2021-07-23,Southeast,Virginia,Richmond,Men's Apparel,90.0,600,54000.0
 Foot Locker,2021-07-23,Southeast,Virginia,Richmond,Men's Street Footwear,60.0,272,16320.0
 Foot Locker,2021-07-23,Southeast,Virginia,Richmond,Men's Athletic Footwear,60.0,224,13440.0
+Foot Locker,2021-07-23,Southeast,Virginia,Richmond,Men's Street Footwear,85.0,850,72250.0
 Foot Locker,2021-07-23,Southeast,Virginia,Richmond,Women's Athletic Footwear,85.0,550,46750.0
 Foot Locker,2021-07-23,Southeast,Virginia,Richmond,Women's Street Footwear,90.0,650,58500.0
+Foot Locker,2021-07-23,Southeast,Virginia,Richmond,Men's Athletic Footwear,90.0,700,63000.0
 Foot Locker,2021-07-23,Southeast,Virginia,Richmond,Men's Athletic Footwear,81.0,203,16443.0
 Foot Locker,2021-07-23,Midwest,Illinois,Chicago,Women's Apparel,55.0,250,13750.0
+Foot Locker,2021-07-23,Southeast,Virginia,Richmond,Women's Apparel,105.0,600,63000.0
 Foot Locker,2021-07-23,Midwest,Nebraska,Omaha,Women's Athletic Footwear,27.0,36,972.0
 Foot Locker,2021-07-23,Southeast,Virginia,Richmond,Women's Athletic Footwear,82.0,149,12218.0
 Foot Locker,2021-07-23,Southeast,Virginia,Richmond,Women's Apparel,96.0,180,17280.0
@@ -1691,6 +1712,7 @@ Foot Locker,2021-08-06,Southeast,South Carolina,Charleston,Women's Apparel,58.0,
 Foot Locker,2021-08-06,Southeast,South Carolina,Charleston,Women's Athletic Footwear,45.0,775,34875.0
 Foot Locker,2021-08-06,Midwest,Iowa,Des Moines,Women's Athletic Footwear,40.0,200,8000.0
 Foot Locker,2021-08-06,Midwest,Iowa,Des Moines,Women's Apparel,53.0,98,5194.0
+Foot Locker,2021-08-06,Southeast,South Carolina,Charleston,Men's Street Footwear,65.0,1125,73125.0
 Foot Locker,2021-08-06,Southeast,South Carolina,Charleston,Men's Apparel,51.0,225,11475.0
 Foot Locker,2021-08-06,Midwest,Iowa,Des Moines,Women's Apparel,55.0,350,19250.0
 Foot Locker,2021-08-06,Midwest,Illinois,Chicago,Men's Athletic Footwear,50.0,300,15000.0
@@ -1739,6 +1761,7 @@ Foot Locker,2021-08-08,West,Idaho,Boise,Men's Street Footwear,38.0,233,8854.0
 Foot Locker,2021-08-09,Midwest,Illinois,Chicago,Men's Apparel,60.0,200,12000.0
 Foot Locker,2021-08-09,Midwest,Illinois,Chicago,Men's Apparel,59.0,58,3422.0
 Foot Locker,2021-08-10,West,Hawaii,Honolulu,Women's Athletic Footwear,70.0,525,36750.0
+Foot Locker,2021-08-10,West,Hawaii,Honolulu,Men's Street Footwear,85.0,750,63750.0
 Foot Locker,2021-08-10,Midwest,Illinois,Chicago,Women's Apparel,65.0,300,19500.0
 Foot Locker,2021-08-10,West,Hawaii,Honolulu,Women's Street Footwear,70.0,600,42000.0
 Foot Locker,2021-08-10,West,Hawaii,Honolulu,Men's Athletic Footwear,75.0,725,54375.0
@@ -1810,9 +1833,11 @@ Foot Locker,2021-08-24,Southeast,Virginia,Richmond,Men's Athletic Footwear,53.0,
 Foot Locker,2021-08-24,Southeast,Virginia,Richmond,Women's Athletic Footwear,70.0,425,29750.0
 Foot Locker,2021-08-24,Southeast,Virginia,Richmond,Women's Street Footwear,69.0,189,13041.0
 Foot Locker,2021-08-24,Southeast,Virginia,Richmond,Women's Street Footwear,70.0,650,45500.0
+Foot Locker,2021-08-24,Southeast,Virginia,Richmond,Men's Athletic Footwear,80.0,775,62000.0
 Foot Locker,2021-08-24,Southeast,Virginia,Richmond,Women's Apparel,55.0,80,4400.0
 Foot Locker,2021-08-24,Southeast,Virginia,Richmond,Men's Apparel,51.0,132,6732.0
 Foot Locker,2021-08-24,Southeast,Virginia,Richmond,Men's Athletic Footwear,76.0,202,15352.0
+Foot Locker,2021-08-24,Southeast,Virginia,Richmond,Men's Street Footwear,90.0,800,72000.0
 Foot Locker,2021-08-24,Southeast,Virginia,Richmond,Women's Apparel,73.0,75,5475.0
 Foot Locker,2021-08-24,Southeast,Virginia,Richmond,Women's Street Footwear,53.0,215,11395.0
 Foot Locker,2021-08-24,Southeast,Virginia,Richmond,Women's Apparel,75.0,250,18750.0
@@ -2138,6 +2163,7 @@ Foot Locker,2021-11-06,Southeast,South Carolina,Charleston,Men's Street Footwear
 Foot Locker,2021-11-06,Southeast,South Carolina,Charleston,Men's Street Footwear,55.0,925,50875.0
 Foot Locker,2021-11-06,Southeast,South Carolina,Charleston,Women's Athletic Footwear,55.0,750,41250.0
 Foot Locker,2021-11-06,Northeast,Pennsylvania,Philadelphia,Women's Athletic Footwear,32.0,8,256.0
+Foot Locker,2021-11-06,Southeast,South Carolina,Charleston,Women's Apparel,75.0,825,61875.0
 Foot Locker,2021-11-06,Southeast,South Carolina,Charleston,Men's Athletic Footwear,44.0,188,8272.0
 Foot Locker,2021-11-06,Southeast,South Carolina,Charleston,Men's Athletic Footwear,45.0,750,33750.0
 Foot Locker,2021-11-06,Southeast,South Carolina,Charleston,Men's Apparel,66.0,196,12936.0
@@ -2386,6 +2412,7 @@ Foot Locker,2021-12-04,West,Idaho,Boise,Women's Athletic Footwear,44.0,184,8096.
 Foot Locker,2021-12-04,West,Idaho,Boise,Men's Street Footwear,55.0,775,42625.0
 Foot Locker,2021-12-04,West,Idaho,Boise,Men's Apparel,55.0,475,26125.0
 Foot Locker,2021-12-04,West,Idaho,Boise,Women's Athletic Footwear,59.0,142,8378.0
+Foot Locker,2021-12-05,Southeast,South Carolina,Charleston,Men's Street Footwear,70.0,1075,75250.0
 Foot Locker,2021-12-05,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,55.0,225,12375.0
 Foot Locker,2021-12-05,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,38.0,79,3002.0
 Foot Locker,2021-12-05,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,54.0,61,3294.0

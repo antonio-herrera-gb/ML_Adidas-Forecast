@@ -1,4 +1,5 @@
 retailer,invoice_date,region,state,city,product,price_per_unit,units_sold,total_sales
+Sports Direct,2020-05-24,Southeast,Florida,Miami,Men's Street Footwear,65.0,1075,69875.0
 Sports Direct,2020-05-24,Southeast,Florida,Miami,Women's Athletic Footwear,54.0,209,11286.0
 Sports Direct,2020-05-24,Southeast,Florida,Miami,Women's Street Footwear,55.0,825,45375.0
 Sports Direct,2020-05-24,Southeast,Florida,Miami,Women's Athletic Footwear,55.0,775,42625.0
@@ -79,6 +80,7 @@ Sports Direct,2020-09-27,Southeast,Florida,Miami,Men's Apparel,50.0,210,10500.0
 Sports Direct,2020-09-28,Southeast,Florida,Miami,Women's Apparel,55.0,223,12265.0
 Sports Direct,2020-09-28,Southeast,Florida,Miami,Women's Apparel,60.0,825,49500.0
 Sports Direct,2020-09-29,Southeast,Florida,Miami,Men's Street Footwear,56.0,270,15120.0
+Sports Direct,2020-09-29,Southeast,Florida,Miami,Men's Street Footwear,60.0,1000,60000.0
 Sports Direct,2020-09-30,Southeast,Florida,Miami,Men's Athletic Footwear,47.0,215,10105.0
 Sports Direct,2020-09-30,Southeast,Florida,Miami,Men's Athletic Footwear,50.0,825,41250.0
 Sports Direct,2020-10-01,Southeast,Florida,Miami,Women's Street Footwear,47.0,203,9541.0
@@ -927,9 +929,11 @@ Sports Direct,2021-06-17,Midwest,Michigan,Detroit,Women's Apparel,65.0,675,43875
 Sports Direct,2021-06-17,Midwest,Michigan,Detroit,Men's Athletic Footwear,50.0,575,28750.0
 Sports Direct,2021-07-02,Southeast,North Carolina,Charlotte,Women's Athletic Footwear,52.0,203,10556.0
 Sports Direct,2021-07-02,Southeast,North Carolina,Charlotte,Women's Apparel,64.0,263,16832.0
+Sports Direct,2021-07-02,Southeast,North Carolina,Charlotte,Men's Street Footwear,65.0,1050,68250.0
 Sports Direct,2021-07-02,Southeast,North Carolina,Charlotte,Men's Apparel,65.0,700,45500.0
 Sports Direct,2021-07-02,Southeast,North Carolina,Charlotte,Women's Street Footwear,55.0,725,39875.0
 Sports Direct,2021-07-02,Southeast,North Carolina,Charlotte,Men's Athletic Footwear,58.0,224,12992.0
+Sports Direct,2021-07-02,Southeast,North Carolina,Charlotte,Women's Apparel,70.0,875,61250.0
 Sports Direct,2021-07-02,Southeast,North Carolina,Charlotte,Men's Apparel,59.0,182,10738.0
 Sports Direct,2021-07-02,Southeast,North Carolina,Charlotte,Men's Street Footwear,60.0,294,17640.0
 Sports Direct,2021-07-02,Southeast,North Carolina,Charlotte,Men's Athletic Footwear,60.0,800,48000.0
@@ -1032,6 +1036,7 @@ Sports Direct,2021-08-03,Southeast,North Carolina,Charlotte,Men's Apparel,53.0,1
 Sports Direct,2021-08-03,Midwest,Nebraska,Omaha,Women's Street Footwear,28.0,138,3864.0
 Sports Direct,2021-08-03,Southeast,North Carolina,Charlotte,Men's Apparel,55.0,650,35750.0
 Sports Direct,2021-08-03,Southeast,North Carolina,Charlotte,Women's Apparel,54.0,231,12474.0
+Sports Direct,2021-08-03,Southeast,North Carolina,Charlotte,Men's Street Footwear,65.0,1025,66625.0
 Sports Direct,2021-08-03,Southeast,North Carolina,Charlotte,Women's Street Footwear,55.0,725,39875.0
 Sports Direct,2021-08-03,Southeast,North Carolina,Charlotte,Women's Apparel,60.0,825,49500.0
 Sports Direct,2021-08-03,Southeast,North Carolina,Charlotte,Men's Street Footwear,61.0,308,18788.0
@@ -1912,11 +1917,13 @@ Sports Direct,2021-11-17,South,Mississippi,Jackson,Women's Apparel,68.0,158,1074
 Sports Direct,2021-11-17,South,Mississippi,Jackson,Women's Street Footwear,28.0,111,3108.0
 Sports Direct,2021-12-02,Southeast,North Carolina,Charlotte,Men's Athletic Footwear,55.0,202,11110.0
 Sports Direct,2021-12-02,Southeast,North Carolina,Charlotte,Men's Athletic Footwear,60.0,775,46500.0
+Sports Direct,2021-12-02,Southeast,North Carolina,Charlotte,Men's Street Footwear,70.0,975,68250.0
 Sports Direct,2021-12-02,Southeast,North Carolina,Charlotte,Men's Street Footwear,64.0,244,15616.0
 Sports Direct,2021-12-05,Southeast,South Carolina,Charleston,Women's Athletic Footwear,59.0,194,11446.0
 Sports Direct,2021-12-05,Southeast,South Carolina,Charleston,Men's Apparel,70.0,775,54250.0
 Sports Direct,2021-12-05,Southeast,South Carolina,Charleston,Women's Athletic Footwear,60.0,775,46500.0
 Sports Direct,2021-12-05,Southeast,South Carolina,Charleston,Men's Apparel,66.0,225,14850.0
+Sports Direct,2021-12-05,Southeast,South Carolina,Charleston,Women's Apparel,75.0,875,65625.0
 Sports Direct,2021-12-05,Southeast,South Carolina,Charleston,Women's Street Footwear,56.0,215,12040.0
 Sports Direct,2021-12-05,Southeast,South Carolina,Charleston,Women's Street Footwear,60.0,825,49500.0
 Sports Direct,2021-12-05,Southeast,South Carolina,Charleston,Women's Apparel,68.0,228,15504.0

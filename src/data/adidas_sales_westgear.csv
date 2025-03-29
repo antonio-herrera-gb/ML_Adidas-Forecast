@@ -314,6 +314,7 @@ West Gear,2020-04-24,West,Colorado,Denver,Men's Apparel,70.0,525,36750.0
 West Gear,2020-04-24,Southeast,Florida,Miami,Women's Athletic Footwear,40.0,650,26000.0
 West Gear,2020-04-24,West,Colorado,Denver,Men's Apparel,67.0,131,8777.0
 West Gear,2020-04-24,Southeast,Florida,Miami,Men's Street Footwear,55.0,1070,58850.0
+West Gear,2020-04-24,Southeast,Florida,Miami,Men's Street Footwear,60.0,1075,64500.0
 West Gear,2020-04-24,Southeast,Florida,Miami,Women's Street Footwear,32.0,203,6496.0
 West Gear,2020-04-24,Southeast,Florida,Miami,Men's Athletic Footwear,54.0,206,11124.0
 West Gear,2020-04-24,Southeast,Florida,Miami,Women's Apparel,44.0,208,9152.0
@@ -456,7 +457,9 @@ West Gear,2020-06-28,West,Washington,Seattle,Women's Athletic Footwear,80.0,500,
 West Gear,2020-06-28,West,Washington,Seattle,Women's Athletic Footwear,75.0,125,9375.0
 West Gear,2020-06-29,West,Washington,Seattle,Men's Apparel,85.0,375,31875.0
 West Gear,2020-06-29,West,Washington,Seattle,Men's Apparel,82.0,105,8610.0
+West Gear,2020-06-30,West,Washington,Seattle,Women's Apparel,100.0,675,67500.0
 West Gear,2020-06-30,West,Washington,Seattle,Women's Apparel,98.0,182,17836.0
+West Gear,2020-07-01,West,Washington,Seattle,Men's Street Footwear,80.0,825,66000.0
 West Gear,2020-07-01,West,Washington,Seattle,Men's Street Footwear,73.0,239,17447.0
 West Gear,2020-07-02,West,Washington,Seattle,Men's Athletic Footwear,82.0,182,14924.0
 West Gear,2020-07-02,West,Washington,Seattle,Men's Athletic Footwear,85.0,675,57375.0
@@ -469,6 +472,8 @@ West Gear,2020-07-05,West,Washington,Seattle,Men's Apparel,77.0,144,11088.0
 West Gear,2020-07-06,West,Washington,Seattle,Women's Apparel,95.0,155,14725.0
 West Gear,2020-07-06,West,Washington,Seattle,Women's Apparel,100.0,575,57500.0
 West Gear,2020-07-07,West,Washington,Seattle,Men's Street Footwear,80.0,217,17360.0
+West Gear,2020-07-07,West,Washington,Seattle,Men's Street Footwear,85.0,775,65875.0
+West Gear,2020-07-08,West,Washington,Seattle,Men's Athletic Footwear,80.0,750,60000.0
 West Gear,2020-07-08,West,Washington,Seattle,Men's Athletic Footwear,77.0,210,16170.0
 West Gear,2020-07-09,West,Washington,Seattle,Women's Street Footwear,73.0,163,11899.0
 West Gear,2020-07-09,West,Washington,Seattle,Women's Street Footwear,75.0,625,46875.0
@@ -515,6 +520,8 @@ West Gear,2020-07-29,West,Washington,Seattle,Men's Apparel,85.0,115,9775.0
 West Gear,2020-07-30,West,Washington,Seattle,Women's Apparel,95.0,550,52250.0
 West Gear,2020-07-30,West,Washington,Seattle,Women's Apparel,88.0,138,12144.0
 West Gear,2020-07-31,West,Washington,Seattle,Men's Street Footwear,78.0,188,14664.0
+West Gear,2020-07-31,West,Washington,Seattle,Men's Street Footwear,80.0,750,60000.0
+West Gear,2020-08-01,West,Washington,Seattle,Men's Athletic Footwear,85.0,750,63750.0
 West Gear,2020-08-01,West,Washington,Seattle,Men's Athletic Footwear,77.0,195,15015.0
 West Gear,2020-08-02,West,Washington,Seattle,Women's Street Footwear,80.0,550,44000.0
 West Gear,2020-08-02,West,Washington,Seattle,Women's Street Footwear,73.0,138,10074.0
@@ -533,6 +540,8 @@ West Gear,2020-09-08,Southeast,Florida,Miami,Women's Athletic Footwear,50.0,775,
 West Gear,2020-09-09,Southeast,Florida,Miami,Men's Apparel,62.0,233,14446.0
 West Gear,2020-09-09,Southeast,Florida,Miami,Men's Apparel,65.0,775,50375.0
 West Gear,2020-09-10,Southeast,Florida,Miami,Women's Apparel,63.0,259,16317.0
+West Gear,2020-09-10,Southeast,Florida,Miami,Women's Apparel,70.0,925,64750.0
+West Gear,2020-09-11,Southeast,Florida,Miami,Men's Street Footwear,65.0,1150,74750.0
 West Gear,2020-09-11,Southeast,Florida,Miami,Men's Street Footwear,60.0,299,17940.0
 West Gear,2020-09-12,Southeast,Florida,Miami,Men's Athletic Footwear,57.0,225,12825.0
 West Gear,2020-09-12,Southeast,Florida,Miami,Men's Athletic Footwear,60.0,900,54000.0
@@ -543,6 +552,8 @@ West Gear,2020-09-14,Southeast,Florida,Miami,Women's Athletic Footwear,53.0,233,
 West Gear,2020-09-15,Southeast,Florida,Miami,Men's Apparel,61.0,208,12688.0
 West Gear,2020-09-15,Southeast,Florida,Miami,Men's Apparel,65.0,800,52000.0
 West Gear,2020-09-16,Southeast,Florida,Miami,Women's Apparel,67.0,244,16348.0
+West Gear,2020-09-16,Southeast,Florida,Miami,Women's Apparel,70.0,975,68250.0
+West Gear,2020-09-17,Southeast,Florida,Miami,Men's Street Footwear,65.0,1125,73125.0
 West Gear,2020-09-17,Southeast,Florida,Miami,Men's Street Footwear,60.0,304,18240.0
 West Gear,2020-09-18,Southeast,Florida,Miami,Men's Athletic Footwear,55.0,252,13860.0
 West Gear,2020-09-18,Southeast,Florida,Miami,Men's Athletic Footwear,60.0,900,54000.0
@@ -694,6 +705,7 @@ West Gear,2021-01-11,Midwest,Missouri,St. Louis,Women's Athletic Footwear,20.0,3
 West Gear,2021-01-11,Midwest,Missouri,St. Louis,Men's Apparel,33.0,98,3234.0
 West Gear,2021-01-11,Midwest,Missouri,St. Louis,Women's Apparel,24.0,138,3312.0
 West Gear,2021-01-11,Midwest,Missouri,St. Louis,Men's Street Footwear,25.0,675,16875.0
+West Gear,2021-01-11,West,California,San Francisco,Women's Apparel,80.0,875,70000.0
 West Gear,2021-01-11,Midwest,Missouri,St. Louis,Men's Street Footwear,23.0,196,4508.0
 West Gear,2021-01-11,Midwest,Missouri,St. Louis,Women's Apparel,25.0,475,11875.0
 West Gear,2021-01-11,West,California,San Francisco,Women's Apparel,72.0,219,15768.0
@@ -717,6 +729,7 @@ West Gear,2021-01-12,Southeast,Florida,Orlando,Women's Apparel,44.0,176,7744.0
 West Gear,2021-01-12,West,California,San Francisco,Men's Street Footwear,41.0,338,13858.0
 West Gear,2021-01-12,Southeast,Florida,Orlando,Women's Athletic Footwear,30.0,170,5100.0
 West Gear,2021-01-12,Southeast,Florida,Orlando,Women's Athletic Footwear,37.0,145,5365.0
+West Gear,2021-01-12,West,California,San Francisco,Men's Street Footwear,60.0,1025,61500.0
 West Gear,2021-01-12,Southeast,Florida,Orlando,Men's Street Footwear,41.0,255,10455.0
 West Gear,2021-01-12,Southeast,Florida,Orlando,Men's Apparel,36.0,193,6948.0
 West Gear,2021-01-12,Southeast,Florida,Orlando,Men's Athletic Footwear,44.0,189,8316.0
@@ -734,6 +747,7 @@ West Gear,2021-01-16,West,California,San Francisco,Men's Apparel,44.0,240,10560.
 West Gear,2021-01-16,West,California,San Francisco,Men's Apparel,64.0,233,14912.0
 West Gear,2021-01-17,Midwest,Indiana,Indianapolis,Men's Apparel,41.0,54,2214.0
 West Gear,2021-01-17,West,Oregon,Portland,Women's Street Footwear,45.0,400,18000.0
+West Gear,2021-01-17,West,California,San Francisco,Women's Apparel,80.0,775,62000.0
 West Gear,2021-01-17,West,Oregon,Portland,Women's Athletic Footwear,34.0,78,2652.0
 West Gear,2021-01-17,Midwest,Indiana,Indianapolis,Men's Athletic Footwear,35.0,300,10500.0
 West Gear,2021-01-17,Midwest,Indiana,Indianapolis,Women's Apparel,35.0,300,10500.0
@@ -765,7 +779,9 @@ West Gear,2021-01-17,Midwest,Indiana,Indianapolis,Men's Street Footwear,32.0,125
 West Gear,2021-01-17,West,California,San Francisco,Women's Apparel,72.0,233,16776.0
 West Gear,2021-01-17,Midwest,Indiana,Indianapolis,Women's Athletic Footwear,30.0,150,4500.0
 West Gear,2021-01-18,West,California,San Francisco,Men's Street Footwear,45.0,302,13590.0
+West Gear,2021-01-18,West,California,San Francisco,Men's Street Footwear,65.0,975,63375.0
 West Gear,2021-01-18,West,California,San Francisco,Men's Street Footwear,62.0,273,16926.0
+West Gear,2021-01-19,West,California,San Francisco,Men's Athletic Footwear,70.0,925,64750.0
 West Gear,2021-01-19,West,California,San Francisco,Men's Athletic Footwear,47.0,278,13066.0
 West Gear,2021-01-19,West,California,San Francisco,Men's Athletic Footwear,66.0,259,17094.0
 West Gear,2021-01-20,West,California,San Francisco,Women's Street Footwear,60.0,200,12000.0
@@ -1529,6 +1545,7 @@ West Gear,2021-06-11,West,Utah,Salt Lake City,Women's Apparel,38.0,150,5700.0
 West Gear,2021-06-11,West,Utah,Salt Lake City,Women's Apparel,40.0,575,23000.0
 West Gear,2021-06-11,West,Utah,Salt Lake City,Women's Apparel,32.0,190,6080.0
 West Gear,2021-06-17,Northeast,West Virginia,Charleston,Men's Apparel,41.0,74,3034.0
+West Gear,2021-06-17,South,Louisiana,New Orleans,Women's Apparel,110.0,750,82500.0
 West Gear,2021-06-17,South,Louisiana,New Orleans,Men's Street Footwear,60.0,825,49500.0
 West Gear,2021-06-17,Northeast,West Virginia,Charleston,Women's Athletic Footwear,33.0,69,2277.0
 West Gear,2021-06-17,South,Louisiana,New Orleans,Women's Street Footwear,83.0,203,16849.0
@@ -1587,6 +1604,7 @@ West Gear,2021-06-24,West,Oregon,Portland,Men's Apparel,90.0,400,36000.0
 West Gear,2021-06-24,West,Oregon,Portland,Men's Athletic Footwear,47.0,202,9494.0
 West Gear,2021-06-24,West,Oregon,Portland,Men's Apparel,67.0,140,9380.0
 West Gear,2021-06-24,West,Oregon,Portland,Women's Athletic Footwear,62.0,179,11098.0
+West Gear,2021-06-24,West,Oregon,Portland,Women's Apparel,105.0,700,73500.0
 West Gear,2021-06-24,West,Oregon,Portland,Women's Street Footwear,80.0,650,52000.0
 West Gear,2021-06-24,West,Oregon,Portland,Men's Athletic Footwear,62.0,169,10478.0
 West Gear,2021-06-24,West,Oregon,Portland,Women's Athletic Footwear,80.0,525,42000.0
@@ -1628,6 +1646,7 @@ West Gear,2021-07-08,Northeast,New York,Albany,Women's Street Footwear,55.0,625,
 West Gear,2021-07-08,Northeast,New York,Albany,Men's Street Footwear,59.0,247,14573.0
 West Gear,2021-07-08,Northeast,New York,Albany,Men's Apparel,65.0,600,39000.0
 West Gear,2021-07-08,Northeast,New York,Albany,Women's Street Footwear,51.0,169,8619.0
+West Gear,2021-07-08,Northeast,New York,Albany,Men's Street Footwear,65.0,950,61750.0
 West Gear,2021-07-08,Northeast,New York,Albany,Men's Athletic Footwear,60.0,700,42000.0
 West Gear,2021-07-08,Northeast,New York,Albany,Men's Apparel,62.0,168,10416.0
 West Gear,2021-07-08,Northeast,New York,Albany,Men's Athletic Footwear,56.0,196,10976.0
@@ -1664,11 +1683,13 @@ West Gear,2021-07-10,West,Utah,Salt Lake City,Men's Apparel,32.0,128,4096.0
 West Gear,2021-07-10,West,Utah,Salt Lake City,Women's Street Footwear,25.0,475,11875.0
 West Gear,2021-07-10,West,Utah,Salt Lake City,Men's Apparel,28.0,140,3920.0
 West Gear,2021-07-10,West,Utah,Salt Lake City,Women's Apparel,40.0,600,24000.0
+West Gear,2021-07-16,South,Louisiana,New Orleans,Women's Street Footwear,95.0,700,66500.0
 West Gear,2021-07-16,Northeast,West Virginia,Charleston,Women's Athletic Footwear,50.0,275,13750.0
 West Gear,2021-07-16,Northeast,West Virginia,Charleston,Women's Street Footwear,50.0,325,16250.0
 West Gear,2021-07-16,South,Louisiana,New Orleans,Men's Athletic Footwear,67.0,248,16616.0
 West Gear,2021-07-16,Northeast,West Virginia,Charleston,Men's Apparel,54.0,87,4698.0
 West Gear,2021-07-16,Northeast,West Virginia,Charleston,Men's Street Footwear,60.0,650,39000.0
+West Gear,2021-07-16,South,Louisiana,New Orleans,Men's Apparel,95.0,650,61750.0
 West Gear,2021-07-16,South,Louisiana,New Orleans,Men's Athletic Footwear,92.0,203,18676.0
 West Gear,2021-07-16,Northeast,West Virginia,Charleston,Men's Apparel,60.0,300,18000.0
 West Gear,2021-07-16,Northeast,West Virginia,Charleston,Women's Street Footwear,49.0,98,4802.0
@@ -1677,16 +1698,19 @@ West Gear,2021-07-16,Northeast,West Virginia,Charleston,Women's Apparel,65.0,475
 West Gear,2021-07-16,South,Louisiana,New Orleans,Women's Street Footwear,90.0,196,17640.0
 West Gear,2021-07-16,Northeast,West Virginia,Charleston,Men's Athletic Footwear,50.0,116,5800.0
 West Gear,2021-07-16,Northeast,West Virginia,Charleston,Men's Street Footwear,55.0,182,10010.0
+West Gear,2021-07-16,South,Louisiana,New Orleans,Men's Street Footwear,90.0,900,81000.0
 West Gear,2021-07-16,South,Louisiana,New Orleans,Women's Apparel,81.0,208,16848.0
 West Gear,2021-07-16,Northeast,West Virginia,Charleston,Men's Athletic Footwear,55.0,400,22000.0
 West Gear,2021-07-16,Northeast,West Virginia,Charleston,Women's Apparel,63.0,133,8379.0
 West Gear,2021-07-16,South,Louisiana,New Orleans,Women's Athletic Footwear,62.0,198,12276.0
 West Gear,2021-07-16,South,Louisiana,New Orleans,Women's Street Footwear,69.0,210,14490.0
 West Gear,2021-07-16,South,Louisiana,New Orleans,Men's Street Footwear,62.0,306,18972.0
+West Gear,2021-07-16,South,Louisiana,New Orleans,Men's Athletic Footwear,95.0,750,71250.0
 West Gear,2021-07-16,South,Louisiana,New Orleans,Women's Athletic Footwear,86.0,168,14448.0
 West Gear,2021-07-16,South,Louisiana,New Orleans,Women's Apparel,103.0,163,16789.0
 West Gear,2021-07-16,Northeast,West Virginia,Charleston,Women's Athletic Footwear,48.0,77,3696.0
 West Gear,2021-07-16,South,Louisiana,New Orleans,Men's Apparel,73.0,221,16133.0
+West Gear,2021-07-16,South,Louisiana,New Orleans,Women's Apparel,110.0,650,71500.0
 West Gear,2021-07-16,South,Louisiana,New Orleans,Men's Street Footwear,86.0,270,23220.0
 West Gear,2021-07-16,South,Louisiana,New Orleans,Men's Apparel,86.0,189,16254.0
 West Gear,2021-07-19,South,Oklahoma,Oklahoma City,Women's Street Footwear,33.0,131,4323.0
@@ -1714,10 +1738,13 @@ West Gear,2021-07-23,West,Oregon,Portland,Men's Apparel,90.0,600,54000.0
 West Gear,2021-07-23,West,Oregon,Portland,Men's Street Footwear,79.0,255,20145.0
 West Gear,2021-07-23,West,Oregon,Portland,Women's Street Footwear,90.0,650,58500.0
 West Gear,2021-07-23,West,Oregon,Portland,Women's Apparel,78.0,204,15912.0
+West Gear,2021-07-23,West,Oregon,Portland,Men's Street Footwear,85.0,850,72250.0
+West Gear,2021-07-23,West,Oregon,Portland,Men's Athletic Footwear,90.0,700,63000.0
 West Gear,2021-07-23,West,Oregon,Portland,Women's Athletic Footwear,85.0,550,46750.0
 West Gear,2021-07-23,West,Oregon,Portland,Women's Athletic Footwear,61.0,171,10431.0
 West Gear,2021-07-23,West,Oregon,Portland,Women's Apparel,97.0,150,14550.0
 West Gear,2021-07-23,West,Oregon,Portland,Women's Street Footwear,86.0,163,14018.0
+West Gear,2021-07-23,West,Oregon,Portland,Women's Apparel,105.0,600,63000.0
 West Gear,2021-07-23,West,Oregon,Portland,Men's Apparel,84.0,156,13104.0
 West Gear,2021-07-23,West,Oregon,Portland,Women's Athletic Footwear,82.0,165,13530.0
 West Gear,2021-07-23,West,Oregon,Portland,Men's Apparel,68.0,198,13464.0
@@ -1745,6 +1772,7 @@ West Gear,2021-08-09,Northeast,New York,Albany,Women's Apparel,55.0,218,11990.0
 West Gear,2021-08-09,Northeast,New York,Albany,Women's Apparel,60.0,725,43500.0
 West Gear,2021-08-09,Northeast,New York,Albany,Men's Apparel,52.0,149,7748.0
 West Gear,2021-08-09,Northeast,New York,Albany,Women's Street Footwear,51.0,188,9588.0
+West Gear,2021-08-09,Northeast,New York,Albany,Men's Street Footwear,65.0,925,60125.0
 West Gear,2021-08-10,Midwest,Indiana,Indianapolis,Men's Street Footwear,50.0,525,26250.0
 West Gear,2021-08-10,Midwest,Indiana,Indianapolis,Women's Apparel,55.0,350,19250.0
 West Gear,2021-08-10,Midwest,Indiana,Indianapolis,Men's Athletic Footwear,45.0,300,13500.0
@@ -1778,6 +1806,7 @@ West Gear,2021-08-11,West,Utah,Salt Lake City,Men's Athletic Footwear,28.0,179,5
 West Gear,2021-08-17,South,Louisiana,New Orleans,Women's Apparel,46.0,102,4692.0
 West Gear,2021-08-17,South,Louisiana,New Orleans,Men's Street Footwear,86.0,255,21930.0
 West Gear,2021-08-17,Northeast,West Virginia,Charleston,Men's Street Footwear,46.0,131,6026.0
+West Gear,2021-08-17,South,Louisiana,New Orleans,Men's Athletic Footwear,85.0,825,70125.0
 West Gear,2021-08-17,South,Louisiana,New Orleans,Men's Street Footwear,73.0,255,18615.0
 West Gear,2021-08-17,South,Louisiana,New Orleans,Men's Apparel,47.0,152,7144.0
 West Gear,2021-08-17,South,Louisiana,New Orleans,Men's Apparel,64.0,138,8832.0
@@ -1800,6 +1829,7 @@ West Gear,2021-08-17,South,Louisiana,New Orleans,Men's Apparel,65.0,475,30875.0
 West Gear,2021-08-17,Northeast,West Virginia,Charleston,Women's Street Footwear,40.0,300,12000.0
 West Gear,2021-08-17,South,Louisiana,New Orleans,Women's Athletic Footwear,75.0,475,35625.0
 West Gear,2021-08-17,Northeast,West Virginia,Charleston,Women's Athletic Footwear,36.0,72,2592.0
+West Gear,2021-08-17,South,Louisiana,New Orleans,Men's Street Footwear,95.0,850,80750.0
 West Gear,2021-08-17,Northeast,West Virginia,Charleston,Women's Street Footwear,38.0,87,3306.0
 West Gear,2021-08-17,South,Louisiana,New Orleans,Women's Athletic Footwear,55.0,143,7865.0
 West Gear,2021-08-17,South,Louisiana,New Orleans,Women's Street Footwear,50.0,217,10850.0
@@ -1831,10 +1861,12 @@ West Gear,2021-08-24,West,Oregon,Portland,Women's Apparel,69.0,73,5037.0
 West Gear,2021-08-24,West,Oregon,Portland,Women's Apparel,53.0,88,4664.0
 West Gear,2021-08-24,West,Oregon,Portland,Women's Athletic Footwear,70.0,425,29750.0
 West Gear,2021-08-24,West,Oregon,Portland,Men's Street Footwear,81.0,200,16200.0
+West Gear,2021-08-24,West,Oregon,Portland,Men's Athletic Footwear,80.0,775,62000.0
 West Gear,2021-08-24,West,Oregon,Portland,Men's Athletic Footwear,62.0,256,15872.0
 West Gear,2021-08-24,West,Oregon,Portland,Men's Athletic Footwear,76.0,233,17708.0
 West Gear,2021-08-24,West,Oregon,Portland,Women's Apparel,75.0,250,18750.0
 West Gear,2021-08-24,West,Oregon,Portland,Men's Street Footwear,69.0,256,17664.0
+West Gear,2021-08-24,West,Oregon,Portland,Men's Street Footwear,90.0,800,72000.0
 West Gear,2021-08-24,West,Oregon,Portland,Women's Street Footwear,68.0,195,13260.0
 West Gear,2021-08-24,West,Oregon,Portland,Men's Apparel,65.0,128,8320.0
 West Gear,2021-09-04,Midwest,Wisconsin,Milwaukee,Women's Apparel,40.0,200,8000.0
@@ -2290,6 +2322,7 @@ West Gear,2021-12-16,Southeast,Florida,Orlando,Women's Apparel,64.0,200,12800.0
 West Gear,2021-12-16,Southeast,Florida,Orlando,Women's Street Footwear,80.0,600,48000.0
 West Gear,2021-12-16,Southeast,Florida,Orlando,Men's Apparel,64.0,179,11456.0
 West Gear,2021-12-16,South,Louisiana,New Orleans,Men's Street Footwear,70.0,800,56000.0
+West Gear,2021-12-16,South,Louisiana,New Orleans,Men's Athletic Footwear,80.0,800,64000.0
 West Gear,2021-12-16,Northeast,West Virginia,Charleston,Women's Street Footwear,55.0,400,22000.0
 West Gear,2021-12-16,Southeast,Florida,Orlando,Men's Apparel,90.0,525,47250.0
 West Gear,2021-12-16,Southeast,Florida,Orlando,Women's Street Footwear,75.0,174,13050.0
