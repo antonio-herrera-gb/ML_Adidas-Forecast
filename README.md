@@ -1,10 +1,14 @@
-🤖 Sales Forecasting with Machine Learning - Adidas Retailers 📈
+# 🤖 Sales Forecasting with Machine Learning - Adidas Retailers 📈
 
 Welcome to my Machine Learning project focused on predicting sales for Adidas retail distributors in the United States! 🏪 We use supervised regression models to estimate store revenue and identify key trends by product, region, and seasonality.
 
-🧠 Project Overview
+## 🧠 **Project Overview**
 
-The primary goal is to predict the total sales of distributor stores based on multiple factors such as product type, price, store location, and date. The insights allow us to:
+- **PART I:**
+
+The primary goal is to predict the total sales of distributor stores based on multiple factors such as product type, price, store location, and date. 
+
+- **PART II:**
 
 Understand which products and markets are growing or declining 📊
 
@@ -14,9 +18,9 @@ Analyze how sales behave across seasons and months 📆
 
 Support strategic decisions in logistics and stock distribution 🚛
 
-This project is fully based on supervised Machine Learning, and includes the construction of a robust baseline model, hyperparameter tuning, and model evaluation with real-world metrics.
+This project is fully based on supervised Machine Learning, and includes the construction of a robust baseline model, hyperparameter tuning, and model evaluation.
 
-📦 The Dataset
+## 📦 **The Dataset**
 
 The dataset contains detailed sales records of Adidas distributors across the U.S. between 2020 and 2021, including:
 
@@ -32,25 +36,7 @@ Calculated target: total_sales
 
 🧼 After cleaning missing values, correcting inconsistencies, and engineering new features (like month, quarter, and cyclical encodings), the data was ready for model training.
 
-🧐 Main Business Questions
-
-1️⃣ Which markets are growing or declining?
-
-We grouped predictions by region/product/month to detect trends over time.
-
-2️⃣ Are stores meeting the desired sales threshold?
-
-With the predicted sales, we compared against a predefined revenue threshold.
-
-3️⃣ Does seasonality affect sales?
-
-We extracted month, day_of_week, and quarter from the date and tested feature importance.
-
-4️⃣ Which products/stores have the most potential if given more stock?
-
-By calculating efficiency metrics like revenue_per_unit, we discovered under-supplied stores with high profitability.
-
-🤖 Models Used
+## 🤖 **Models Used**
 
 We tested several models and selected the top performers:
 
