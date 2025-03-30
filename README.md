@@ -85,7 +85,7 @@ CatBoost was selected as the final model due to its stability, native categorica
 ```
 
 
-## 📬 **Contacto**
+## 📬 **Contact**
 
 If you have any questions or want to collaborate, feel free to reach out:
 
