@@ -78,7 +78,7 @@ CatBoost was selected as the final model due to its stability, native categorica
 |   ├── 📂 models/                # Saved model (CatBoost)
 |   ├── 📂 notebooks/             # Jupyter notebooks (EDA, modeling, tuning)
 |   ├── 📂 results_notebook/      # Final notebook
-|   ├── 📂 utils/                 # Funtions
+|   ├── 📂 utils/                 # Functions
 |
 ├── 📄 README.md              # Documentation
 └── 📄 presentacion.pdf       # Presentation/report
