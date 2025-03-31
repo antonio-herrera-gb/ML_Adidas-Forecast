@@ -101,11 +101,11 @@ Thanks for reading this project! 🧠🚀Feel free to fork it, test it, or propo
 
 ## 🧠 **Descripción del Proyecto**
 
-- **PARTE I:**
+**PARTE I:**
 
 El objetivo principal es predecir las ventas totales de las tiendas distribuidoras basándose en múltiples factores, tales como el tipo de producto, precio, ubicación de la tienda y fecha.
 
-- **PARTE II:**
+**PARTE II:**
 
 - Comprender qué productos y mercados están en crecimiento o en declive 📊  
 - Estimar si las tiendas alcanzarán los objetivos mínimos de ingresos 💰  
