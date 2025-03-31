@@ -6,17 +6,17 @@ Welcome to my Machine Learning project focused on predicting sales for Adidas re
 
 - **PART I:**
 
-The primary goal is to predict the total sales of distributor stores based on multiple factors such as product type, price, store location, and date. 
+- The primary goal is to predict the total sales of distributor stores based on multiple factors such as product type, price, store location, and date. 
 
 - **PART II:**
 
-Understand which products and markets are growing or declining 📊
+- Understand which products and markets are growing or declining 📊
 
-Estimate if stores will reach minimum revenue targets 💰
+- Estimate if stores will reach minimum revenue targets 💰
 
-Analyze how sales behave across seasons and months 📆
+- Analyze how sales behave across seasons and months 📆
 
-Support strategic decisions in logistics and stock distribution 🚛
+- Support strategic decisions in logistics and stock distribution 🚛
 
 This project is fully based on supervised Machine Learning, and includes the construction of a robust baseline model, hyperparameter tuning, and model evaluation.
 
@@ -24,15 +24,15 @@ This project is fully based on supervised Machine Learning, and includes the con
 
 The dataset contains detailed sales records of Adidas distributors across the U.S. between 2020 and 2021, including:
 
-Store information: retailer, region, state, city
+- Store information: retailer, region, state, city
 
-Product category: product
+- Product category: product
 
-Pricing and quantity: price_per_unit, units_sold
+- Pricing and quantity: price_per_unit, units_sold
 
-Date of transaction: invoice_date
+- Date of transaction: invoice_date
 
-Calculated target: total_sales
+- Calculated target: total_sales
 
 🧼 After cleaning missing values, correcting inconsistencies, and engineering new features (like month, quarter, and cyclical encodings), the data was ready for model training.
 
@@ -40,13 +40,13 @@ Calculated target: total_sales
 
 We tested several models and selected the top performers:
 
-📉 Linear Regression (Baseline)
+- 📉 Linear Regression
 
-🌲 Random Forest Regressor
+- 🌲 Random Forest Regressor
 
-⚡ XGBoost Regressor
+- ⚡ XGBoost Regressor
 
-🐱 CatBoost Regressor (best balance between performance and generalization)
+- 🐱 CatBoost Regressor (best balance between performance and generalization)
 
 GridSearchCV and KFold cross-validation were used to ensure robust model evaluation.
 
