@@ -4,11 +4,11 @@ Welcome to my Machine Learning project focused on predicting sales for Adidas re
 
 ## 🧠 **Project Overview**
 
-- **PART I:**
+**PART I:**
 
 - The primary goal is to predict the total sales of distributor stores based on multiple factors such as product type, price, store location, and date. 
 
-- **PART II:**
+**PART II:**
 
 - Understand which products and markets are growing or declining 📊
 
