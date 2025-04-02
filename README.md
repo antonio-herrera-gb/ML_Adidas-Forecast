@@ -22,7 +22,7 @@ This project is fully based on supervised Machine Learning, and includes the con
 
 ## 📦 **The Dataset**
 
-The dataset [kaggle](https://www.kaggle.com/datasets/ahmedabbas757/dataset?resource=download) contains detailed sales records of Adidas distributors across the U.S. between 2020 and 2021 (9641 entries and 12 columns), including:
+The [dataset](https://www.kaggle.com/datasets/ahmedabbas757/dataset?resource=download) contains detailed sales records of Adidas distributors across the U.S. between 2020 and 2021 (9641 entries and 12 columns), including:
 
 - Store information: retailer, region, state, city
 
@@ -116,7 +116,7 @@ Este proyecto se basa completamente en Machine Learning supervisado e incluye la
 
 ## 📦 **Dataset**
 
-El dataset [kaggle](https://www.kaggle.com/datasets/ahmedabbas757/dataset?resource=download) contiene registros detallados de ventas de distribuidores de Adidas en todo EE.UU. entre 2020 y 2021 (9641 entradas y 12 columnas), incluyendo:
+El [dataset](https://www.kaggle.com/datasets/ahmedabbas757/dataset?resource=download) contiene registros detallados de ventas de distribuidores de Adidas en todo EE.UU. entre 2020 y 2021 (9641 entradas y 12 columnas), incluyendo:
 
 - Información de la tienda: retailer, region, state, city  
 - Categoría del producto: product  
